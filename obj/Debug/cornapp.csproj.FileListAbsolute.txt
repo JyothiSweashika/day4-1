@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\bin\Debug\cornapp.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\bin\Debug\cornapp.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\bin\Debug\cornapp.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\obj\Debug\cornapp.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\obj\Debug\cornapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\obj\Debug\cornapp.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\obj\Debug\cornapp.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\cornapp\cornapp\obj\Debug\cornapp.pdb
